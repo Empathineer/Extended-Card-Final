@@ -1,6 +1,6 @@
 # Extended-Card-Final
 
-<div class="description user_content student-version enhanced jqueryUIWidgetized"><h1 style="text-align: center;">Managing a Sorted java.util List and java.util Stack</h1>
+<div class="description user_content student-version enhanced jqueryUIWidgetized"><h2 style="text-align: center;">Managing a Sorted java.util List and java.util Stack</h2>
 
 <h3><u>Objective</u></h3>
 <p>Previously, we instantiated a <strong>java.util</strong> <strong>LinkedList</strong> of <strong>Floats</strong> and integrated an some<strong> insert()</strong> and <strong>remove()</strong> method on the client side that managed the list in increasing sorted order.&nbsp; In this assignment, the same will be applied for <strong>Card</strong> objects following the natural order that was established before.&nbsp;</p>
